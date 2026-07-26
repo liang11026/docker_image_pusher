@@ -1,5 +1,11 @@
-# Seata
-seataio/seata-server:2.0.0
+# MySQL
+mysql:8.0
+
+# Redis
+redis:latest
+
+# Nacos
+nacos/nacos-server:v2.5.1
 
 # RocketMQ
 apache/rocketmq:5.2.0
@@ -7,5 +13,8 @@ apache/rocketmq:5.2.0
 # RocketMQ Dashboard
 apacherocketmq/rocketmq-dashboard:2.0.0
 
-# Nacos（如果 v2.5.1 没有，用这个）
-nacos/nacos-server:v2.5.1
+# Seata
+seataio/seata-server:2.0.0
+
+# XXL-JOB
+xuxueli/xxl-job-admin:2.4.1
