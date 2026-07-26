@@ -22,3 +22,5 @@ xuxueli/xxl-job-admin:2.4.1
 elasticsearch:7.17.24
 
 kibana:7.17.24
+
+sentinel:v1.8.8
