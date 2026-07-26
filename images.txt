@@ -18,3 +18,7 @@ seataio/seata-server:2.0.0
 
 # XXL-JOB
 xuxueli/xxl-job-admin:2.4.1
+
+elasticsearch:7.17.24
+
+kibana:7.17.24
